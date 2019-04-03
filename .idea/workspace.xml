@@ -46,8 +46,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="258">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -322,15 +322,16 @@
       <updated>1554205402479</updated>
       <workItem from="1554205407163" duration="137000" />
       <workItem from="1554205569389" duration="7704000" />
-      <workItem from="1554249439303" duration="2994000" />
+      <workItem from="1554249439303" duration="3591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10835000" />
+    <option name="totallyTimeSpent" value="11432000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="494" y="6" width="847" height="750" extended-state="0" />
+    <frame x="494" y="6" width="847" height="750" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -552,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="258">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
